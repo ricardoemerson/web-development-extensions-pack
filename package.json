@@ -2,7 +2,7 @@
   "name": "web-development-extensions-pack",
   "displayName": "Web Development Extensions Pack",
   "description": "A set of useful extensions for web development.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/web-development-extensions-pack",
@@ -40,6 +40,7 @@
     "sort",
     "spec",
     "spaces",
+    "tailwind",
     "toggle"
   ],
   "categories": [
@@ -59,20 +60,14 @@
     "GregorBiswanger.json2ts",
     "jasonnutter.search-node-modules",
     "kamikillerto.vscode-colorize",
-    "luongnd.edge",
-    "meganrogge.template-string-converter",
-    "nathanchapman.JavaScriptSnippets",
     "NicholasHsiang.vscode-javascript-snippet",
     "Orta.vscode-jest",
     "Prisma.vscode-graphql",
     "ritwickdey.LiveServer",
     "sburg.vscode-javascript-booster",
-    "TedisAgolli.hex-to-tailwind",
     "tgreen7.vs-code-node-require",
-    "thekarel.open-spec-file",
     "vincaslt.highlight-matching-tag",
-    "whtouche.vscode-js-console-utils",
-    "wix.vscode-import-cost"
+    "whtouche.vscode-js-console-utils"
   ],
   "__metadata": {
     "publisherDisplayName": "Ricardo Emerson"

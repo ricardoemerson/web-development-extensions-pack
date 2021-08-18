@@ -2,6 +2,15 @@
 
 All notable changes to the "web-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.1.0]
+
+- Removed Edge template support extension.
+- Removed Import Cost extension.
+- Removed Hex to Tailwind extension.
+- Removed JavaScript Snippets extension.
+- Removed Open Spec File extension.
+- Removed Template String Converter extension.
+
 ## [1.0.0]
 
 - Added Auto Rename Tag extension.

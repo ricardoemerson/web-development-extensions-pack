@@ -32,28 +32,22 @@ This extension package contains useful extensions for work with web development 
 - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) - A vscode extension to help visualize css colors in files.
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules.
 - [CSS Variables Autocomplete](https://marketplace.visualstudio.com/items?itemName=danileao.css-variables-autocomplete) - CSS Variables Autocomplete.
-- [Edge template support](https://marketplace.visualstudio.com/items?itemName=luongnd.edge) - Edge template support and syntax highlight support.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
-- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag. -[Hex to Tailwind](https://marketplace.visualstudio.com/items?itemName=TedisAgolli.hex-to-tailwind) - Convert hex to the closest Tailwind preset using the Delta E algorithm.
-- [Hex to Tailwind](https://marketplace.visualstudio.com/items?itemName=TedisAgolli.hex-to-tailwind) - Convert hex to the closest Tailwind preset using the Delta E algorithm.
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor.
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands.
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
 - [javascript console utils](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils) - Help insert and remove console.(\*) statements.
-- [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets) - JavaScript (ES6) code snippets for VS Code.
 - [Jest Snippets](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets) - Code snippets for testing framework Jest.
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 - [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - Convert a JSON from clipboard to TypeScript interfaces. (Ctrl+Alt+V).
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [Node Require](https://marketplace.visualstudio.com/items?itemName=tgreen7.vs-code-node-require) - Require files, dependencies and core modules.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visfual Studio Code plugin that autocompletes npm modules in import statements.
-- [Open Spec File](https://marketplace.visualstudio.com/items?itemName=thekarel.open-spec-file) - Quickly access spec files for TDD zen.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 - [Split HTML Attributes (Vue, React, Angular)](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes) - Split your Vue, React & Angular directives & props (and HTML attributes) onto new lines, instantly!
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code.
-- [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter) - Converts quotes to backticks when a $ and { are entered within quotes in JavaScript and TypeScript files.
 
 **Enjoy!**
