@@ -2,6 +2,10 @@
 
 All notable changes to the "web-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.2.0]
+
+- Removed GraphQL extension (Moved to Base Development Extensions Pack).
+
 ## [1.1.0]
 
 - Removed Edge template support extension.

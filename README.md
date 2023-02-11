@@ -1,9 +1,10 @@
 # Web Development Extensions Pack
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ricardo-emerson.web-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack)
-[![Install](https://vsmarketplacebadge.apphb.com/installs/ricardo-emerson.web-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ricardo-emerson.web-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/ricardo-emerson.web-development-extensions-pack.svg)](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.web-development-extensions-pack&ssr=false#review-details)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ricardo-emerson.web-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ricardo-emerson.web-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/ricardo-emerson.web-development-extensions-pack.svg?style=flat-square)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/ricardo-emerson.web-development-extensions-pack.svg?style=flat-square)
+[![GitHub](https://img.shields.io/github/stars/ricardoemerson/web-development-extensions-pack.svg?style=flat-square)](https://github.com/ricardoemerson/web-development-extensions-pack)
 
 This extension package contains useful extensions for work with web development in visual studio code. This extensions was migrated from the package [Base Development Extensions Pack](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.base-development-extensions-pack).
 
@@ -33,7 +34,6 @@ This extension package contains useful extensions for work with web development 
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules.
 - [CSS Variables Autocomplete](https://marketplace.visualstudio.com/items?itemName=danileao.css-variables-autocomplete) - CSS Variables Autocomplete.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
-- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster) - Boost your productivity with advanced JavaScript refactorings and commands.
 - [JavaScript Code Snippet](https://marketplace.visualstudio.com/items?itemName=NicholasHsiang.vscode-javascript-snippet) - Code snippets for JavaScript in ES3/5/6+ syntax.
